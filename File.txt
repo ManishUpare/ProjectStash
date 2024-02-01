@@ -1,5 +1,6 @@
 This is new project running.......
 
+<<<<<<< Updated upstream
 
 
 
@@ -7,3 +8,6 @@ This is new project running.......
 
 
 this is manish from warora i would like you tell all thing from java
+=======
+New Project Start
+>>>>>>> Stashed changes
